@@ -1,0 +1,2 @@
+create table all_users ( Id int identity(1,1) , UserName varchar(50) , Password varchar(50) , Email varchar(50)
+, location varchar(50) , Role varchar(50) , userpin varchar(50) , language varchar(50) )
